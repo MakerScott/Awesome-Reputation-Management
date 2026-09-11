@@ -40,7 +40,7 @@ Whether you are a local service business, multi-location franchise, marketing ag
 - [💻 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🏗️ Architectural Blueprint for Custom Pipelines](#️-architectural-blueprint-for-custom-pipelines)
 - [🤝 How to Contribute](#-how-to-contribute)
-- [⭐ Star History](#-star-history)
+- [⭐ Star History](#--star-history)
 - [⚖️ Disclaimer](#️-disclaimer)
 
 ---
@@ -184,7 +184,7 @@ For more awesome lists, check out [Awesome-Awesome-Awesome](https://github.com/i
 
 ---
 
-## ⭐ Star History
+##  Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Reputation-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Reputation-Management&type=date&legend=top-left)
 
