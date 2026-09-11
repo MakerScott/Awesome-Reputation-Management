@@ -28,7 +28,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
-- [SaaS/Hosted Platforms](#saas-products)
+- [SaaS Products](#saas-products)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
 
@@ -38,65 +38,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
-## SaaS/Hosted Platforms
+## SaaS Products
 
-- **[Birdeye](https://birdeye.com/)**  
-
-  All-in-one reputation, reviews, listings, messaging, and customer experience platform widely used by multi-location businesses.
-
-
-
-- **[Podium](https://www.podium.com/)**  
-
-  Text-first customer communication and review generation platform strong for local service businesses and review requests via SMS.
-
-
-
-- **[Reputation.com](https://www.reputation.com/)**  
-
-  Enterprise reputation management platform focused on multi-location governance, review analytics, surveys, and reputation scoring.
-
-
-
-- **[NiceJob](https://get.nicejob.com/)**  
-
-  Review generation and reputation platform popular with service businesses for automated review requests and monitoring.
-
-
-
-- **[Broadly](https://broadly.com/)**  
-
-  Customer experience and review platform helping local businesses collect and manage feedback across channels.
-
-
-
-- **[ReviewTrackers](https://www.reviewtrackers.com/)**  
-
-  Review monitoring and analytics platform known for broad site coverage, reporting, and customer feedback insights.
-
-
-
-- **[Grade.us](https://grade.us/)**  
-
-  Review generation and management platform focused on helping businesses collect more positive reviews.
-
-
-
-- **[Mention](https://mention.com/)**  
-
-  Social listening and brand monitoring platform that tracks mentions, sentiment, and online conversations.
-
-
-
-- **[Brand24](https://brand24.com/)**  
-
-  Online brand monitoring and social listening tool for tracking mentions, sentiment, and reputation signals across the web and social media.
-
-
-
-- **[LocalClarity](https://localclarity.com/)**  
-
-  Local reputation and review management platform aimed at multi-location brands and agencies.
+| Platform | Description | Pricing | Free Tier / Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Birdeye](https://birdeye.com/)** | All-in-one reputation, reviews, listings, messaging, and customer experience platform widely used by multi-location businesses. | Starts at ~$299/mo (Starter tier, billed annually for 1 location; Growth tier at ~$399/mo) | No free-forever plan; offers a 30-day free trial for Birdeye Social (requires connecting &ge;1 social profile; no credit card required) or a 14-day sales-assisted trial for the reputation platform upon demo request. |
+| **[Podium](https://www.podium.com/)** | Text-first customer communication and review generation platform strong for local service businesses and review requests via SMS. | Starts at ~$399/mo (Core tier, 1 location; Pro tier starts at ~$599/mo) | No free-forever plan; offers a 14-day free trial (no credit card required; includes 1 location, review generation, and core SMS customer messaging tools). |
+| **[Reputation.com](https://www.reputation.com/)** | Enterprise reputation management platform focused on multi-location governance, review analytics, surveys, and reputation scoring. | Starts at $80/location/mo (Rep Core plan; Rep Core + Pulse tier starts at $115/location/mo) | No free-forever plan; provides a free single-location Brand Reputation Report & Audit, plus a 30-day free trial for select modules (e.g., Social Publishing) via sales demo. |
+| **[NiceJob](https://get.nicejob.com/)** | Review generation and reputation platform popular with service businesses for automated review requests and monitoring. | Starts at $75/mo (Standard Reviews plan, up to 2,500 customer contacts; Pro plan at $125/mo) | 14-day free trial (no credit card required; full access to automated review invitations, review monitoring, and social sharing for 1 location; no free-forever plan). |
+| **[Broadly](https://broadly.com/)** | Customer experience and review platform helping local businesses collect and manage feedback across channels. | Starts at $79/mo (standalone Reputation Management module) or $399/mo (Standard complete suite) | 30-day free trial (no credit card required; full access to review generation workflows and customer inbox tools; no free-forever plan). |
+| **[ReviewTrackers](https://www.reviewtrackers.com/)** | Review monitoring and analytics platform known for broad site coverage, reporting, and customer feedback insights. | Starts at ~$49–$89/location/mo (Starter/Essential monitoring tier) | No free-forever plan; offers a 7-to-14-day guided free trial upon demo request (limited to 1 location and review tracking across major review sites). |
+| **[Grade.us](https://grade.us/)** | Review generation and management platform focused on helping businesses collect more positive reviews. | Starts at $110/mo (Solo tier for 1 seat/profile; Professional tier at $180/mo for 3 seats) | 14-day free trial (no credit card required; access up to 3 seats/profiles, review funnels, review monitoring, and email/SMS campaigns; no free-forever plan). |
+| **[Mention](https://mention.com/)** | Social listening and brand monitoring platform that tracks mentions, sentiment, and online conversations. | Starts at $599/mo (Company Plan, billed annually; includes 5 alerts & 50,000 mentions/mo) | 14-day free trial (no credit card required; includes basic alert setup and trial mention monitoring; no free-forever plan). |
+| **[Brand24](https://brand24.com/)** | Online brand monitoring and social listening tool for tracking mentions, sentiment, and reputation signals across the web and social media. | Starts at $199/mo (billed annually) or $249/mo (billed monthly) (Individual plan: 3 keywords, 2,000 mentions/mo; Team tier at $299/mo) | 14-day free trial (no credit card required; includes up to 3 keywords and live mention tracking across web and social channels; no free-forever plan). |
+| **[LocalClarity](https://localclarity.com/)** | Local reputation and review management platform aimed at multi-location brands and agencies. | Starts at $10–$16/location/mo (Google Only at $10/loc/mo; Professional tier at $16–$20/loc/mo) | 14-day free trial (no credit card required; includes unlimited users, competitor tracking, review inbox, and full analytics reporting; no free-forever plan). |
 
 
 
